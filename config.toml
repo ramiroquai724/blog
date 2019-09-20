@@ -1,0 +1,7 @@
+baseURL = "https://ramiroquai724.github.io"
+languageCode = "en-us"
+title = "Ramiro, human"
+theme = "hyde"
+
+[params]
+  description = "Thoughts on software, music, and fried chicken"
